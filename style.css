@@ -1,0 +1,42 @@
+body {
+    background: #202020;
+    color: white;
+}
+button {
+    font-size: 20px;
+    /* border: 3px soldi white; */
+    border-radius: 50px;
+    background: gray;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    padding: 20px;
+    margin: 10px;
+    
+}
+
+h1{
+    padding: 40px;
+}
+
+#buttons{
+    display:flex;
+    justify-content: center;
+    font-weight: bold;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 80px;
+    font-weight: bold;
+}
+/* #buttons {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-51.6%, -45%);
+
+
+} */
+
